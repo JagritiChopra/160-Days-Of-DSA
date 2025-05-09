@@ -23,9 +23,10 @@ Explanation: 2 is the only minimum element in the array.*/
 
 int findMinBrute(vector<int>& arr) {
     int minVal = arr[0];
+    // Traverse the array to find the minimum element
     for (int i = 1; i < arr.size(); i++) {
-        if (arr[i] < minVal)
-            minVal = arr[i];
+        if (arr[i] < minVal) // check if a smaller element is found
+            minVal = arr[i]; // Update minVal
     }
     return minVal;
 }
