@@ -33,7 +33,7 @@ for(int i=0 ;i<arr.size(); i++){
 }
 
 /* optimised approach using binary search */
-
+ // Compexity : O(logn) Time and O(1) Space
 
 int peakElement(vector<int> &arr) {
     int n = arr.size();
