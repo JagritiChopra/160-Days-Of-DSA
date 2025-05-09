@@ -18,9 +18,7 @@ Tracking my progress in the [`streak-journal`](./streak-journal/) folder. I solv
 
 ## 💻 Platforms Used
 
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://practice.geeksforgeeks.org/)
-- [HackerRank](https://www.hackerrank.com/
+- [GeeksforGeeks](https://www.geeksforgeeks.org/batch/gfg-160-problems?_gl=1*tfhc1t*_up*MQ..&gclid=CjwKCAjwtdi_BhACEiwA97y8BIw1cTFSrhDtWtP_hvxXR_rItVHzBCM5t4FMZTTRxisXFQm_5_lbbhoCHdcQAvD_BwE&tab=Chapters)
 
 ## 🛠️ Languages & Tools
 
