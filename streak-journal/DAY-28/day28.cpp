@@ -21,8 +21,6 @@ Constraints:
 1 ≤ arr.size() ≤ 106
 1 ≤ arr[i] ≤ 106
 1 ≤ target ≤ 106
-
-
 */
 
 /* solution */
