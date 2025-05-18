@@ -21,3 +21,16 @@ Input: x = 35, mat[][] = [[3, 30, 38],
 [35, 60, 69]]
 Output: true
 Explanation: mat[2][0] is equal to 35.*/
+
+/* Brute force approach*/
+
+for(int i = 0; i < n; i++)
+{
+    for(int j = 0; j < m; j++)
+    {
+        if(mat[i][j] == x)
+        {
+            return true;
+        }
+    }
+} return false;
