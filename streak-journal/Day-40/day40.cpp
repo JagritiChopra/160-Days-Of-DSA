@@ -16,3 +16,21 @@ Input: x = 42, mat[][] = [[ 1, 5, 9, 11],
 Output: false
 
 */
+
+/* Brute force*/
+
+int n = mat.size(), m = mat[0].size();
+bool search(int x, vector<vector<int>> &mat)
+{
+    for(int i = 0; i < n; i++)
+    {
+        for(int j = 0; j < m; j++)
+        {
+            if(mat[i][j] == x)
+            {
+                return true;
+            }
+        }
+    }
+    return false;
+}
