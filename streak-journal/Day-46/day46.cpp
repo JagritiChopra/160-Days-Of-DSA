@@ -21,6 +21,42 @@ Explanation: 1, 2, 3, 4, 5 and 6 are the elements present in either array.
 
 // User function template in C++
 
+/* ✅ Approach:
+You are using a hash set (unordered_set) to store the union of two arrays.
+
+Steps:
+
+Create an unordered set st which automatically handles duplicates.
+
+Insert all elements of array a into st.
+
+Insert all elements of array b into st.
+
+Since sets store only unique elements, the final size of the set is the count of unique elements, i.e., the union of both arrays.
+
+🕒 Time Complexity:
+Inserting an element into an unordered_set takes O(1) on average.
+
+Let n = size of array a, and m = size of array b.
+
+So:
+
+Inserting all elements of a → O(n)
+
+Inserting all elements of b → O(m)
+
+Total Time Complexity:
+👉 O(n + m) (average case)
+
+Note: In rare worst cases due to hash collisions, insertions can degrade to O(n²), but this is uncommon.
+
+💾 Space Complexity:
+The unordered set st stores at most n + m elements (in case all are unique).
+
+Total Space Complexity:
+👉 O(n + m) (in worst case when no duplicates)  
+*/
+
 class Solution {
 public:
     // Function to return the count of number of elements in union of two arrays.
