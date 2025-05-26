@@ -1,0 +1,66 @@
+/*   Problem Statement :
+
+Longest Consecutive Subsequence
+Given an array of integers, the task is to find the length of the longest subsequence such that elements in the subsequence are consecutive integers, the consecutive numbers can be in any order. 
+
+Examples:  
+
+Input: arr[] = [2, 6, 1, 9, 4, 5, 3]
+Output: 6
+Explanation: The consecutive numbers here are from 1 to 6. These 6 numbers form the longest consecutive subsequence [2, 6, 1, 4, 5, 3].
+
+Input: arr[] = [1, 9, 3, 10, 4, 20, 2]
+Output: 4
+Explanation: The subsequence [1, 3, 4, 2] is the longest subsequence of consecutive elements
+
+Input: arr[] = [36, 41, 56, 35, 44, 33, 34, 92, 43, 32, 42]
+Output: 5
+Explanation: The subsequence [36, 35, 33, 34, 32] is the longest subsequence of consecutive elements.
+
+*/
+
+/* Brute Force  Approach
+
+[Naive Approach] Using Sorting - O(n*log n) Time and O(1) Space
+The idea is to sort the array and find the longest subarray with consecutive elements. Initialize the consecutive count with 1 and start iterating over the sorted array from the second element. For each element arr[i], we can have three cases:
+
+arr[i] = arr[i - 1], then the ith element is simply a duplicate element so skip it.
+arr[i] = arr[i - 1] + 1, then increase the consecutive count and update result if consecutive count is greater than result.
+arr[i] > arr[i - 1], then reset the consecutive count to 1.
+After iterating over all the elements, return the result. */
+
+
+  /* Brute Force Solution*/
+
+// C++ program to find longest consecutive subsequence
+
+int longestConsecutive(vector<int>& arr) {
+
+    // sort the array
+    sort(arr.begin(), arr.end());
+  
+  	int res = 1, cnt = 1;
+  
+    // find the maximum length by traversing the array
+    for (int i = 1; i < arr.size(); i++) {
+      	
+        // Skip duplicates
+      	if (arr[i] == arr[i-1]) 
+          	continue;
+
+        // Check if the current element is equal
+        // to previous element + 1
+        if (arr[i] == arr[i - 1] + 1) {
+            cnt++;
+        } 
+        else {
+          	// reset the count
+            cnt = 1;
+        }
+
+        // update the result
+        res = max(res, cnt);
+    }
+    return res;
+}
+
