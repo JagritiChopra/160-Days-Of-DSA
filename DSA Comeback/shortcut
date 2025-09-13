@@ -1,0 +1,70 @@
+
+
+#include<iostream>
+using namespace std ;
+
+### **1️⃣ `main` snippet**
+
+Type `main` + Enter (with C++ extensions like “C/C++” by Microsoft):
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    // code here
+    return 0;
+}
+```
+
+---
+
+### **2️⃣ `class` snippet**
+
+Some C++ snippet extensions let you type `class` + Tab to generate a basic class template:
+
+```cpp
+class ClassName {
+private:
+    // private members
+
+public:
+    ClassName() {
+        // constructor
+    }
+
+    ~ClassName() {
+        // destructor
+    }
+
+    // methods
+};
+```
+
+---
+
+### **3️⃣ `for` snippet**
+
+* `fori` → generates a for loop with `int i = 0; i < n; i++`
+* `forr` → reverse loop
+* `foreach` → for each loop with arrays/vectors
+
+---
+
+### **4️⃣ `cout` / `cin` snippet**
+
+* `cout` → `cout << "" << endl;`
+* `cin` → `cin >> ;`
+
+---
+
+### **5️⃣ `if` / `while` / `switch` snippets**
+
+* `if` → generates `if(condition) { }`
+* `else` → generates `else { }`
+* `while` → generates `while(condition) { }`
+
+---
+
+💡 **Tip:** In VS Code, you can also **create your own custom C++ snippets** for things you often type (like your `Stacker` class boilerplate).
+

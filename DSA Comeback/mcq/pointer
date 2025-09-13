@@ -1,0 +1,95 @@
+Expression
+
+///////////////////////////////*(*(a + **a + 2) + 3)
+
+
+a is a pointer to the first row (a[0]).
+
+So a points to a[0][0].
+
+**a →
+
+*a = pointer to row 0 → a[0]
+
+**a = first element of row 0 → a[0][0] = 1.
+
+So a + **a + 2 = a + 1 + 2 = a + 3.
+
+That points to row 3 (a[3]).
+
+*(a + 3) → pointer to row 3 (i.e., a[3]).
+
+*(a + 3) + 3 = a[3] + 3 → pointer to a[3][3].
+
+*(*(a + 3) + 3) = a[3][3] = 19.
+
+
+
+/////////////////////////////////////#include<stdio.h>
+
+int main()
+{
+    char *s = "Geeks Quiz";
+    int n = 7;
+    printf("%.*s", n, s);
+    return 0;
+}
+🔎 Step 1: String
+s = "Geeks Quiz";
+So the full string in memory is:
+
+css
+Copy code
+G e e k s   Q u i z \0
+0 1 2 3 4 5 6 7 8 9
+🔎 Step 2: Format specifier %.*s
+%s → prints a string.
+
+%.*s → the .* means: take the precision value from an integer argument.
+
+Here, precision = n = 7.
+
+That means: print at most 7 characters of the string.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
