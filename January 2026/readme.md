@@ -1,7 +1,16 @@
 ## January 2026
 
 1  dsa-> potd sliding window began https://youtu.be/HZWTEeOqF4c?si=Wc4HwuWoAF6OgJO8 <br>
-2 <br>
+sliding window : https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1
+
+2 POTD : <br>
+
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/?envType=daily-question&envId=2026-01-02   <br>
+https://www.geeksforgeeks.org/dsa/sort-an-array-of-0s-1s-and-2s/
+ <br>
+
+ sliding window : https://leetcode.com/problems/subarray-sum-equals-k/description/
+ <br>
 3 <br>
 4 <br>
 5 <br>
