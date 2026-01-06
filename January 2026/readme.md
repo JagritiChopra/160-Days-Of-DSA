@@ -57,6 +57,13 @@ https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 video 7:
  https://www.geeksforgeeks.org/problems/bipartite-graph/1
 
+
+<br>
+
+
+
+7 
+
  video8:
  https://www.geeksforgeeks.org/problems/covid-spread--141631/1
 
@@ -70,10 +77,6 @@ video 7:
  
     https://www.geeksforgeeks.org/problems/number-of-provinces/1
 <br>
-
-
-
-7 <br>
 8 <br>
 9 <br>
 10 <br>
