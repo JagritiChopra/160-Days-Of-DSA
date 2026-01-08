@@ -77,7 +77,11 @@ video 7:
  
     https://www.geeksforgeeks.org/problems/number-of-provinces/1
 <br>
-8 <br>
+8
+
+https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 ✅
+
+ <br>
 9 <br>
 10 <br>
 11 <br>
