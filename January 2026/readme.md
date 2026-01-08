@@ -80,6 +80,9 @@ video 7:
 8
 
 https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 ✅
+https://www.geeksforgeeks.org/problems/topological-sort/1 ✅
+https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1  ✅
+https://www.geeksforgeeks.org/problems/bipartite-graph/1 ✅
 
  <br>
 9 <br>
