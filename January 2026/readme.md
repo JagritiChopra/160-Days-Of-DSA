@@ -85,7 +85,11 @@ https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1  ✅
 https://www.geeksforgeeks.org/problems/bipartite-graph/1 ✅
 
  <br>
-9 <br>
+9  
+ https://www.geeksforgeeks.org/problems/covid-spread--141631/1 ✅
+  https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1 ✅
+   https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions ✅
+<br>
 10 <br>
 11 <br>
 12 <br>
