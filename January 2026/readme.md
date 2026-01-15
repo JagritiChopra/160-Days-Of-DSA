@@ -89,14 +89,115 @@ https://www.geeksforgeeks.org/problems/bipartite-graph/1 ✅
  https://www.geeksforgeeks.org/problems/covid-spread--141631/1 ✅
   https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1 ✅
    https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions ✅
+
+
+   video 9 :
+  https://www.geeksforgeeks.org/problems/prerequisite-tasks/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions   ✅
+
+  https://www.geeksforgeeks.org/problems/course-schedule/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions   ✅
+
+  https://www.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty%5B%5D=2&category%5B%5D=Graph&sortBy=submissions ✅
+
+  https://leetcode.com/problems/parallel-courses-iii/description/
+
+  https://leetcode.com/problems/parallel-courses-ii/description/
+
+  https://leetcode.com/problems/course-schedule-iv/description/
+
+
+
 <br>
-10 <br>
-11 <br>
-12 <br>
-13 <br>
+10 
+video 10 :
+https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1 
+
+https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297?leftPanelTabValue=PROBLEM
+
+video 11: 
+https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1
+
+video 12 :   
+https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions
+
+video watched till here
+
+
+
+11 
+
+12    
+video 10 question solved:
+https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1  ✅       <br>
+
+
+
+
+
+<br>
+ <br>
+
+13
+
+video 13:
+https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1   ✅ 
+
+video 14: 
+https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1  ✅ 
+
+
+video 15:
+https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article       ✅ 
+
+ <br>
+
+ 
 14 <br>
+
+video 16:
+https://www.geeksforgeeks.org/problems/knight-walk4521/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions  ✅ 
+
+https://www.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions  ✅ 
+
+
+https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions  ✅ 
+
+
+video 17 :
+https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1?page=3&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submission
+s
+
+
+
 15 <br>
+
+video 18 :
+
+https://www.geeksforgeeks.org/problems/circle-of-strings4530/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions
+
+video 19 :
+https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+video 20 :
+https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+
+watched vdeos till  here
+
+
+
+
 16 <br>
+video 21 :
+https://leetcode.com/problems/critical-connections-in-a-network/
+video 22 :
+https://www.geeksforgeeks.org/problems/articulation-point-1/1
+video 23 :
+https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1
+video 24 :
+https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+https://www.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1?page=1&difficulty%5B%5D=2&category%5B%5D=Graph&sortBy=submissions
+
+
+
+
 17 <br>
 18 <br>
 19 <br>
