@@ -5,31 +5,38 @@
   dsa-> potd sliding window began https://youtu.be/HZWTEeOqF4c?si=Wc4HwuWoAF6OgJO8 <br>
 sliding window :
 video 1
- https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1
+ 
+ [zero-sum-subarrays](https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
 
 2 ✅  <br>
 
 POTD : <br>
 
-https://leetcode.com/problems/n-repeated-element-in-size-2n-array/?envType=daily-question&envId=2026-01-02   <br>
-https://www.geeksforgeeks.org/dsa/sort-an-array-of-0s-1s-and-2s/
+[n-repeated-element-in-size-2n-array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/?envType=daily-question&envId=2026-01-02)   <br>
+[sort-an-array-of-0s-1s-and-2s](https://www.geeksforgeeks.org/dsa/sort-an-array-of-0s-1s-and-2s/)
  <br>
 video 2
- sliding window : https://leetcode.com/problems/subarray-sum-equals-k/description/
+ 
+ sliding window : 
+ [subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+ 
  <br>
 
 3  <br>
 
-sliding window: video 3
-https://leetcode.com/problems/subarray-sums-divisible-by-k/description/ ✅
-https://leetcode.com/problems/subarray-product-less-than-k/description/ ✅
-https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/
-https://www.geeksforgeeks.org/dsa/number-subarrays-sum-less-k/  -> just an article so cant try
+### 📹 Sliding Window – Video 3
+
+- [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) ✅  
+- [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) ✅  
+- [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/)  
+- [Number of Subarrays With Sum Less Than K (GfG)](https://www.geeksforgeeks.org/dsa/number-subarrays-sum-less-k/)  
+ -> just an article so cant try
 
 <br>
 4 
 sliding window:  video4
-https://leetcode.com/problems/minimum-size-subarray-sum/description/ ✅
+
+- [minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) ✅
 <br>
 
 5  <br>
@@ -40,6 +47,7 @@ https://leetcode.com/problems/minimum-size-subarray-sum/description/ ✅
 
  <br>
 **Sliding Window: Video 1**
+
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [Smallest Distant Window](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1)
 
@@ -85,10 +93,14 @@ https://leetcode.com/problems/minimum-size-subarray-sum/description/ ✅
 - [Bipartite Graph](https://www.geeksforgeeks.org/problems/bipartite-graph/1) ✅
 
  <br>
-9  
- - [COVID Spread](https://www.geeksforgeeks.org/problems/covid-spread--141631/1) ✅
+9  <br>
+
+- [COVID Spread](https://www.geeksforgeeks.org/problems/covid-spread--141631/1) ✅
 - [Find the Number of Islands](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) ✅
 - [Replace O’s with X’s](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1) ✅
+
+<br>
+
 
 **Video 9:**
 - [Prerequisite Tasks](https://www.geeksforgeeks.org/problems/prerequisite-tasks/1) ✅
@@ -102,7 +114,8 @@ https://leetcode.com/problems/minimum-size-subarray-sum/description/ ✅
 
 <br>
 10 
-### 📹 Video 10
+  **Video 10**
+
 - [Shortest Path in Undirected Graph Having Unit Distance](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
 - [Shortest Path in an Unweighted Graph (Naukri Code360)](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)
 
@@ -169,7 +182,8 @@ video 16:
 
 video 17 :
 
-- [Euler Circuit and Path (Video 17)](https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1?page=3&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions)  
+- [Euler Circuit and Path (Video 17)](https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1?page=3&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions)   
+
 
 
 
@@ -185,10 +199,10 @@ video 17 :
 - [Circle of Strings](https://www.geeksforgeeks.org/problems/circle-of-strings4530/1)
 
 **Video 19:**  
-- [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [Prims Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
 
 **Video 20:**  
-- [Minimum Spanning Tree (Continued)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [Kruskal's Minimum Spanning Tree (Continued)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
 
 ---
 
@@ -198,6 +212,12 @@ video 17 :
 
 **Video 21:**  
 - [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+
+
+17 <br>
+
 
 **Video 22:**  
 - [Articulation Point](https://www.geeksforgeeks.org/problems/articulation-point-1/1)
@@ -210,9 +230,42 @@ video 17 :
 - [Strongly Connected Components (Tarjan’s Algorithm)](https://www.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1)
 
 
+videos watched till here..
 
-17 <br>
+
+
+
 18 <br>
+
+video 17 :
+
+- [Euler Circuit and Path (Video 17)](https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1?page=3&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions)   ✅ 
+**Video 18:**  
+- [Circle of Strings](https://www.geeksforgeeks.org/problems/circle-of-strings4530/1)  ✅ 
+
+
+**Video 19:**  
+- [Prims Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+
+**Video 20:**  
+- [Kruskal's Minimum Spanning Tree (Continued)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+
+**Video 21:**  
+- [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+
+**Video 22:**  
+- [Articulation Point](https://www.geeksforgeeks.org/problems/articulation-point-1/1)
+
+**Video 23:**  
+- [Hamiltonian Path](https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1)
+
+**Video 24:**  
+- [Strongly Connected Components (Kosaraju’s Algorithm)](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)  
+- [Strongly Connected Components (Tarjan’s Algorithm)](https://www.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1)
+
+
 19 <br>
 20 <br>
 21 <br>
