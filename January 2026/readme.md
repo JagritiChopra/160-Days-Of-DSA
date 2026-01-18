@@ -168,6 +168,18 @@ s
 
 
 
+
+- [Knight Walk](https://www.geeksforgeeks.org/problems/knight-walk4521/1)  
+- [Shortest Source to Destination Path](https://www.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1)  
+- [Find Whether Path Exist](https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1)  
+- [Euler Circuit and Path (Video 17)](https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1?page=3&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions)  
+
+
+
+
+
+
+
 15 <br>
 
 video 18 :
@@ -193,6 +205,7 @@ video 23 :
 https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1
 video 24 :
 https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+
 https://www.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1?page=1&difficulty%5B%5D=2&category%5B%5D=Graph&sortBy=submissions
 
 
