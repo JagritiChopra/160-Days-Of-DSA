@@ -79,45 +79,38 @@ https://leetcode.com/problems/minimum-size-subarray-sum/description/ ✅
 <br>
 8
 
-https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 ✅
-https://www.geeksforgeeks.org/problems/topological-sort/1 ✅
-https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1  ✅
-https://www.geeksforgeeks.org/problems/bipartite-graph/1 ✅
+- [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) ✅
+- [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) ✅
+- [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) ✅
+- [Bipartite Graph](https://www.geeksforgeeks.org/problems/bipartite-graph/1) ✅
 
  <br>
 9  
- https://www.geeksforgeeks.org/problems/covid-spread--141631/1 ✅
-  https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1 ✅
-   https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions ✅
+ - [COVID Spread](https://www.geeksforgeeks.org/problems/covid-spread--141631/1) ✅
+- [Find the Number of Islands](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) ✅
+- [Replace O’s with X’s](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1) ✅
 
+**Video 9:**
+- [Prerequisite Tasks](https://www.geeksforgeeks.org/problems/prerequisite-tasks/1) ✅
+- [Course Schedule](https://www.geeksforgeeks.org/problems/course-schedule/1) ✅
+- [Alien Dictionary](https://www.geeksforgeeks.org/problems/alien-dictionary/1) ✅
 
-   video 9 :
-  https://www.geeksforgeeks.org/problems/prerequisite-tasks/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions   ✅
-
-  https://www.geeksforgeeks.org/problems/course-schedule/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions   ✅
-
-  https://www.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty%5B%5D=2&category%5B%5D=Graph&sortBy=submissions ✅
-
-  https://leetcode.com/problems/parallel-courses-iii/description/
-
-  https://leetcode.com/problems/parallel-courses-ii/description/
-
-  https://leetcode.com/problems/course-schedule-iv/description/
-
+- [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/)
+- [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/description/)
+- [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/)
 
 
 <br>
 10 
-video 10 :
-https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1 
+### 📹 Video 10
+- [Shortest Path in Undirected Graph Having Unit Distance](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
+- [Shortest Path in an Unweighted Graph (Naukri Code360)](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)
 
-https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297?leftPanelTabValue=PROBLEM
+### 📹 Video 11
+- [Shortest Path in Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
 
-video 11: 
-https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1
-
-video 12 :   
-https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions
+### 📹 Video 12
+- [Implementing Dijkstra (Adjacency Matrix)](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 
 video watched till here
 
@@ -127,7 +120,8 @@ video watched till here
 
 12    
 video 10 question solved:
-https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1  ✅       <br>
+- [Shortest Path in Undirected Graph Having Unit Distance](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) ✅
+  <br>
 
 
 
@@ -138,33 +132,29 @@ https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-
 
 13
 
-video 13:
-https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1   ✅ 
+### 📹 Video 13
+- [Shortest Path in Weighted Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1) ✅
 
-video 14: 
-https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1  ✅ 
+### 📹 Video 14
+- [Distance from the Source (Bellman-Ford Algorithm)](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) ✅
 
+### 📹 Video 15
+- [Implementing Floyd–Warshall Algorithm](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) ✅
 
-video 15:
-https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article       ✅ 
 
  <br>
 
  
 14 <br>
 
-video 16:
-https://www.geeksforgeeks.org/problems/knight-walk4521/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions  ✅ 
+### 📹 Video 16
+- [Knight Walk](https://www.geeksforgeeks.org/problems/knight-walk4521/1) ✅  
+- [Shortest Source to Destination Path](https://www.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1) ✅  
+- [Find Whether Path Exist](https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1) ✅  
 
-https://www.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions  ✅ 
+### 📹 Video 17
+- [Euler Circuit and Path](https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1)
 
-
-https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions  ✅ 
-
-
-video 17 :
-https://www.geeksforgeeks.org/problems/euler-circuit-and-path/1?page=3&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submission
-s
 
 
 
