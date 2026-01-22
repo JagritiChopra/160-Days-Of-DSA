@@ -245,7 +245,7 @@ video 17 :
 
 
 **Video 19:**  
-- [Prims Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [Prims Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)  ✅ 
 
 **Video 20:**  
 - [Kruskal's Minimum Spanning Tree (Continued)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
@@ -268,8 +268,57 @@ video 17 :
 
 19 <br>
 20 <br>
+
+
+
 21 <br>
+
+video 1 :
+
+video 2 :
+
+video 3 :
+
+https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1?page=4&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/size-of-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1?page=4&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+
+video 4:
+
+https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/mirror-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1?page=2&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+
+
+
+
+
+
+
 22 <br>
+video 5: 
+
+1: Left View of Binary Tree: https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+2: Right View of Binary Tree: https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
+3: Top View of Binary Tree: https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions
+4: Bottom View of Binary Tree: https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions
 23 <br>
 24 <br>
 25 <br>
