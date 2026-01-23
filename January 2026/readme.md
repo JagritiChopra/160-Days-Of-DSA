@@ -319,12 +319,24 @@ video 5:
 2: Right View of Binary Tree: https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions
 3: Top View of Binary Tree: https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions
 4: Bottom View of Binary Tree: https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions
-23 <br>
+
+23 <br>koioikpo
+
+Video 6 :
+
+https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1
+
+https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1?page=3&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1?page=3&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions
+
+
+
 24 <br>
 25 <br>
 26 <br>
-27 <br>
-28 <br>
+27 <br> lololol
+28 <br> ;alala
 29 <br>
 30 <br>
 31 <br>
