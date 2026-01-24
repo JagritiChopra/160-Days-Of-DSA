@@ -332,7 +332,7 @@ https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1?page=3&diff
 
 
 
-24 <br>
+24 <br> diagonal view  , vertical veiw
 25 <br>
 26 <br>
 27 <br> lololol
