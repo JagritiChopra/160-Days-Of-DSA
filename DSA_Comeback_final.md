@@ -2,6 +2,7 @@
 ## Lecture 1
 <br>
 insertion and deletion
+
 ## Lecture 2
 <br>
 heap sort  build sort
