@@ -10,17 +10,17 @@ heap sort  build sort
 
 ## Lecture 3
 
-1: Height of Heap : https://www.geeksforgeeks.org/problems/height-of-heap5025/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Heap&sortBy=submissions
+1: Height of Heap : https://www.geeksforgeeks.org/problems/height-of-heap5025/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Heap&sortBy=submissions   ✅
 
-2:Minimum Cost of ropes : https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1?page=1&difficulty
+2:Minimum Cost of ropes : https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1?page=1&difficulty   ✅
 
-3:Magician and Chocolates: https://www.interviewbit.com/problems/magician-and-chocolates/
+3:Magician and Chocolates: https://www.interviewbit.com/problems/magician-and-chocolates/   ✅
 
-4: Last Stone Weight: https://leetcode.com/problems/last-stone-weight/description/
+4: Last Stone Weight: https://leetcode.com/problems/last-stone-weight/description/   ✅
 
-5: Take Gifts From the Richest Pile: https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/
+5: Take Gifts From the Richest Pile: https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/   ✅
 
-6: Profit Maximisation: https://www.interviewbit.com/problems/profit-maximisation/
+6: Profit Maximisation: https://www.interviewbit.com/problems/profit-maximisation/   ✅
 
 <br>
 
