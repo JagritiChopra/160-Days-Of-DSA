@@ -26,14 +26,14 @@ heap sort  build sort
 
 ## Lecture 4
 
-1: Kth smallest element: https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+1: Kth smallest element: https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article   ✅
 
-2: Kth Largest Element in an Array: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+2: Kth Largest Element in an Array: https://leetcode.com/problems/kth-largest-element-in-an-array/description/  ✅
 
 3: Kth largest element in a stream: https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1?
-page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions
+page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions   ✅
 
-4: Sum of elements between k1'th and k2'th smallest elements: https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1?page=1&difficulty%5B%5D=0&category%5B%5D=Heap&sortBy=submissions
+4: Sum of elements between k1'th and k2'th smallest elements: https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1?page=1&difficulty%5B%5D=0&category%5B%5D=Heap&sortBy=submissions  ✅
 
 <br>
 
