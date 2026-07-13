@@ -49,9 +49,9 @@ page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions   ✅
 
 ## Lecture 6
 
-1: Kth element in Matrix : https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1?page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions
+1: Kth element in Matrix : https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1?page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions ✅
 
-2: Find median in a stream: (https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1?page=1&difficulty%5B%5D=2&category%5B%5D=Heap&sortBy=submissions)
+2: Find median in a stream: (https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1?page=1&difficulty%5B%5D=2&category%5B%5D=Heap&sortBy=submissions) ✅
 
 <br>
 
