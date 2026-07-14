@@ -59,7 +59,7 @@ page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions   ✅
 
 1: Merge K Sorted Linked List: https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 
-2: Merge k Sorted Arrays: (https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+2: Merge k Sorted Arrays: (https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)  ✅
 
 <br>
 
@@ -67,8 +67,7 @@ page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions   ✅
 
 1: Smallest Range Covering Elements from K Lists: (https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
 
-2: Construct Target Array With Multiple Sums: (https://leetcode.com/problems/construct-target-array-with-multiple-
-sums/description/)
+2: Construct Target Array With Multiple Sums: (https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/)
 
 <br>
 
