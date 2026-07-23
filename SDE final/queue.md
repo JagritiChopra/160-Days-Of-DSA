@@ -4,9 +4,9 @@
 
 
 
-1. https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+1. https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab  ✅
 
-2. https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+2. https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab ✅
 
 <br>
 
@@ -14,20 +14,20 @@
 
 
 1
-https://www.geeksforgeeks.org/problems/queue-reversal/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Queue&sortBy=submissions
+https://www.geeksforgeeks.org/problems/queue-reversal/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Queue&sortBy=submissions ✅
 
 2
-https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1173348790/
+https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1173348790/ ✅
 
 3
 
-https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1?page=1&difficulty%5B%5D=0&category%5B%5D=Queue&sortBy=submissions
+https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1?page=1&difficulty%5B%5D=0&category%5B%5D=Queue&sortBy=submissions ✅
 
 4
-https://leetcode.com/problems/implement-stack-using-queues/submissions/1173361790/
+https://leetcode.com/problems/implement-stack-using-queues/submissions/1173361790/ ✅
 
 5
- https://leetcode.com/problems/implement-queue-using-stacks/description/
+ https://leetcode.com/problems/implement-queue-using-stacks/description/ ✅
 
 <br>
 
